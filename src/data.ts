@@ -129,7 +129,7 @@ export const alternateBridesPreset: BrandConfig = {
   subtitle: "Elite Makeup Artistry Lab & Academy • Mumbai • Delhi",
   location: "Bandra West, Mumbai",
   address: "Studio 202, Premium Runway Heights, Bandra West, Mumbai 400050",
-  phone: "919000012345",
+  phone: "916391157751",
   email: "bookings@luxeaura.com",
   instagram: "luxeaura_beauty",
   facebook: "luxeaura.official",

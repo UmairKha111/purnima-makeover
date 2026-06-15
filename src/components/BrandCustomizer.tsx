@@ -275,7 +275,7 @@ export default function BrandCustomizer({
                       </label>
                       <input
                         type="text"
-                        placeholder="e.g. 919931139456"
+                        placeholder="e.g. 916391157751"
                         className="w-full bg-stone-800 border border-stone-750 rounded px-3 py-2 text-sm text-stone-100 focus:outline-none focus:border-amber-500"
                         value={localConfig.phone}
                         onChange={(e) => handleChangeBasic("phone", e.target.value)}
