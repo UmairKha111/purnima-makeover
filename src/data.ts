@@ -9,7 +9,7 @@ export const purnimaDefaultPreset: BrandConfig = {
   subtitle: "Professional Bridal & Fashion Makeup Artist • Ranchi & Globally",
   location: "Ranchi, Jharkhand",
   address: "Purnima Beauty Parlour & Makeover, Ranchi, Jharkhand 834004",
-  phone: "919931139456", // Customizable WhatsApp phone format (no leading +, spaces, or dashes for API routing)
+  phone: "916391157751", // Customizable WhatsApp phone format (no leading +, spaces, or dashes for API routing)
   email: "purnimamakeover@gmail.com",
   instagram: "purnima_makeover_ranchi",
   facebook: "purnima.makeover",
