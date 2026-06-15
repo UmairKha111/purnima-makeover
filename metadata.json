@@ -1,0 +1,6 @@
+{
+  "name": "Purnima Makeover",
+  "description": "High-fidelity modular portfolio and inquiry booking website for Purnima Makeover Ranchi, with fully customizable brand configuration, Tailwind themes, and seamless WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
